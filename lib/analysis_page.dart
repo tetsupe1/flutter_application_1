@@ -10,9 +10,7 @@ class AnalysisPage extends StatelessWidget {
       appBar: AppBar(
         title: Text('KBOYのFlutter大学'),
       ),
-      body: Container(
-        color: Colors.green,
-      ),
+      body: Container(),
     );
   }
 }

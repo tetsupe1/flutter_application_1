@@ -9,9 +9,7 @@ class DataPage extends StatelessWidget {
       appBar: AppBar(
         title: Text('KBOYのFlutter大学'),
       ),
-      body: Container(
-        color: Colors.blue,
-      ),
+      body: Container(),
     );
   }
 }

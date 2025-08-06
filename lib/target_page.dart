@@ -9,9 +9,7 @@ class TargetPage extends StatelessWidget {
       appBar: AppBar(
         title: Text('KBOYのFlutter大学'),
       ),
-      body: Container(
-        color: Colors.red,
-      ),
+      body: Container(),
     );
   }
 }
